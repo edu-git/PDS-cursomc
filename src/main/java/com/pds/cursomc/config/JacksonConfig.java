@@ -1,4 +1,4 @@
-package com.pds.cursomc;
+package com.pds.cursomc.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
